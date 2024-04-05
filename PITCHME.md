@@ -1,19 +1,26 @@
 ---
 marp: true
-# lang: en-US
-title: Marp CLI example
-description: Hosting Marp slide deck on the web
+title: 12 Angry Men
+description: Topics for discussion
+author: Iûnn Siù-huī
 theme: uncover
-# transition: fade
+class: invert
 paginate: true
 ---
 
 <!-- _paginate: false -->
+<!-- _footer: "United Artists, Public domain, via [Dr. Macro's High Quality Movie Scans](https://www.doctormacro.com/Movie%20Summaries/A/12%20Angry%20Men.htm)" -->
+
+![bg](https://www.doctormacro.com/Images/Fonda,%20Henry/Annex/Annex%20-%20Fonda,%20Henry%20(12%20Angry%20Men)_01.jpg)
 
 # 12 Angry Men 
 # 十二怒漢
 
 ---
+
+<!-- _footer: "United Artists, Public domain, via [Variety](https://variety.com/1956/film/reviews/12-angry-men-review-1200418382/)" -->
+
+![bg](https://variety.com/wp-content/uploads/2022/10/12-HOMMES-EN-COLERE-1957-01-C-United-Artists.jpg?w=1000&h=563&crop=1)
 
 ## 陪審員投票
 
@@ -21,6 +28,21 @@ paginate: true
 - 書面/舉手
 
 ---
+
+<!-- _footer: "United Artists, Public domain, via [So The Theory Goes](https://www.sothetheorygoes.com/12-angry-men/)" -->
+
+![bg](https://www.sothetheorygoes.com/wp-content/uploads/2018/05/12-angry-men_5eacea0c.jpg)
+
+## 主席的主持風格
+
+- 輪流發言/自由討論
+- 推進/休息
+
+---
+
+<!-- _footer: "United Artists, Public domain, via [Dr. Macro's High Quality Movie Scans](https://www.doctormacro.com/Movie%20Summaries/A/12%20Angry%20Men.htm)" -->
+
+![bg](https://www.doctormacro.com/Images/Fonda,%20Henry/Annex/NRFPT/Annex%20-%20Fonda,%20Henry%20(12%20Angry%20Men)_NRFPT_05.jpg)
 
 ## 證據：人證
 
@@ -33,12 +55,20 @@ Q 記憶的不可靠
 
 ---
 
+<!-- _footer: "United Artists, Public domain, via [Dr. Macro's High Quality Movie Scans](https://www.doctormacro.com/Movie%20Summaries/A/12%20Angry%20Men.htm)" -->
+
+![bg](https://www.doctormacro.com/Images/Fonda,%20Henry/Annex/Annex%20-%20Fonda,%20Henry%20(12%20Angry%20Men)_02.jpg)
+
 ## 證據：物證
 
 - 「特別的」刀
 - Q 無指紋
 
 ---
+
+<!-- _footer: "United Artists, Public domain, via [Dr. Macro's High Quality Movie Scans](https://www.doctormacro.com/Movie%20Summaries/A/12%20Angry%20Men.htm)" -->
+
+![bg](https://www.doctormacro.com/Images/Fonda,%20Henry/Annex/Annex%20-%20Fonda,%20Henry%20(12%20Angry%20Men)_10.jpg)
 
 ## 經驗形成判斷/偏見
 
@@ -48,9 +78,9 @@ Q 記憶的不可靠
 
 ---
 
-## 主席的主持風格
+<!-- _footer: "United Artists, Public domain, via [Dr. Macro's High Quality Movie Scans](https://www.doctormacro.com/Movie%20Summaries/A/12%20Angry%20Men.htm)" -->
 
----
+![bg](https://www.doctormacro.com/Images/Fonda,%20Henry/Annex/Annex%20-%20Fonda,%20Henry%20(12%20Angry%20Men)_08.jpg)
 
 ## 無罪推定之難
 
@@ -60,6 +90,10 @@ Q 記憶的不可靠
 - 合理懷疑 what if
 
 ---
+
+<!-- _footer: "United Artists, Public domain, via [Into Film](https://www.intofilm.org/films/3055)" --> 
+
+![bg](https://www.intofilm.org/intofilm-production/scaledcropped/970x546https%3A/s3-eu-west-1.amazonaws.com/images.cdn.filmclub.org/film__3055-12-angry-men--hi_res-fdac7e4f.jpg/film__3055-12-angry-men--hi_res-fdac7e4f.jpg)
 
 ## 傾聽/分享/堅持
 
@@ -71,21 +105,23 @@ Q 記憶的不可靠
 
 ---
 
-## 指定辯護人/公設辯護人
+<!-- _footer: "United Artists, Public domain, via [Peter Lloyd](https://iprofessdesign.wordpress.com/2017/02/16/stop-talking-start-thinking-the-architecture-of-reasonable-doubt/)" --> 
 
-律師有價，沒錢萬萬不能
+![bg](https://iprofessdesign.wordpress.com/wp-content/uploads/2017/02/screen-shot-2017-02-15-at-14-22-56.png)
+
+## 辯護人
+
+- 品質
+- 價格
+- 隨傳隨到
 
 ---
 
 <!-- _paginate: false -->
 
-<!-- <style scoped>
-p {
-  font-size: 26px;
-}
-</style> -->
+<!-- _footer: "United Artists, Public domain, via [Criterion](https://www.criterion.com/current/posts/2076-12-angry-men-lumet-s-faces)" -->
 
-<!-- ![bg left:33%](images/photo-1517771778436-39f5763f5270.jpg) -->
+![bg](https://s3.amazonaws.com/criterion-production/images/4827-664f8fedbdf6cbf48d64035ac729bba6/current_1534_073_large.jpg)
 
 ## Powered By
 
@@ -100,5 +136,3 @@ p {
 
 Source code of this slide can be found on Github: 
 [iunn-sh/12-angry-men](https://github.com/iunn-sh/12-angry-men)
-
-<!-- img credit https://images.unsplash.com/photo-1517771778436-39f5763f5270 -->
