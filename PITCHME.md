@@ -18,6 +18,19 @@ paginate: true
 
 ---
 
+<!-- _footer: "United Artists, Public domain, via [cultura](https://www.cultura.id/12-angry-men-review)" -->
+
+![bg opacity:.6](https://www.cultura.id/wp-content/uploads/2022/07/12-Angry-Men.jpg)
+
+## 陪審團 vs. 國民法官
+
+* 人員組成
+* 共識的最低票
+* 有罪 or 無罪
+* 罪責
+
+---
+
 <!-- _footer: "United Artists, Public domain, via [Variety](https://variety.com/1956/film/reviews/12-angry-men-review-1200418382/)" -->
 
 ![bg opacity:.6](https://variety.com/wp-content/uploads/2022/10/12-HOMMES-EN-COLERE-1957-01-C-United-Artists.jpg?w=1000&h=563&crop=1)
@@ -121,10 +134,7 @@ paginate: true
 
 ## Powered By
 
-|           |                                      |
-| --------: | :----------------------------------- |
-| Markdown 	| [Marp](https://marp.app)             |
-| Github	| [iunn-sh/12-angry-men](https://github.com/iunn-sh/12-angry-men) |
-<!-- | Chart     | [amCharts](https://www.amcharts.com) |
-| Image     | [Unsplash](https://unsplash.com)     |
-| Icon      | [icon-icons](https://icon-icons.com) | -->
+|           |                                      | ![h:250](./assets/qr-code.png) |
+| --------: | :----------------------------------- | :--- |
+| Markdown 	| [Marp](https://marp.app)             | |
+| Github	| [iunn-sh/12-angry-men](https://github.com/iunn-sh/12-angry-men) | |
