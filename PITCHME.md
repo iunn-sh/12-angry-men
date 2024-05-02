@@ -22,8 +22,9 @@ paginate: true
 
 ![bg opacity:.6](https://www.cultura.id/wp-content/uploads/2022/07/12-Angry-Men.jpg)
 
-## 陪審團 vs. 國民法官
+## 人民參與審判
 
+陪審團 vs. 國民法官
 * 人員組成
 * 共識的最低票
 * 有罪 or 無罪
