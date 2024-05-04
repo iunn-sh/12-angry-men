@@ -18,7 +18,7 @@ paginate: true
 
 ---
 
-<!-- _footer: "United Artists, Public domain, via [cultura](https://www.cultura.id/12-angry-men-review)" -->
+<!-- _footer: "United Artists, Public domain, via [Cultura](https://www.cultura.id/12-angry-men-review)" -->
 
 ![bg opacity:.6](https://www.cultura.id/wp-content/uploads/2022/07/12-Angry-Men.jpg)
 
